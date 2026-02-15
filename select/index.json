@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "最後のTight Hug",
+  "base_artist": "Nogizaka46",
+  "createdAt": "2026-02-15T14:09:09.979980Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "最後のTight Hug",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/01_最後のTight_Hug_Nogizaka46.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "最後のTight hug",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/02_最後のTight_hug_乃木坂46.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "最後のTight Hug",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_01_最後のTight_Hug_乃木坂46.txt"
+    }
+  ]
+}
